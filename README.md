@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kahsay
-- 👀 I’m interested in Programing,Datascience,AI,ML Datamining
-- 🌱 I’m currently learning Fullstack Dev and Data science
+- 👀 I’m interested in Programing, Data science and analytics, AI, ML, Statistics , Datamining
 - 💞️ looking to collaborate on Programing,Datascience,AI,ML Datamining
 - 📫 How to reach me Email: kass.cyber.mail@gmail.com // kahsay081@gmail.com
 
