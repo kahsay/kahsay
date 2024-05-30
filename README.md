@@ -1,5 +1,17 @@
 - 👋 Hi, I’m @kahsay
-- A Senior Numerical Algorithm Designer (Supervisor & Technical Manager), Experienced with all stages of Software development in different programming languages (including Java, Python, JavaScript, C-sharp, C/C++ and others). In addition to software development and design, with a 10+years working experience, I have gained a well-tested skills in the fields related to Data Mining, Machine learning, AI (Artificial intelligence), and data analytics. With my experience in the IT industry, I have been leading, Supervising, monitoring and working on multiple Cyber security projects as a System Developer and Programmer, System Designer, Cyber Security and intelligence projects’ Supervisor and as Technical Manager/team leader in my recent career.
+This is Kahsay Kalayu, A Senior Numerical Algorithm Designer (Supervisor &Technical Manager), Experienced with all stages of Software development in different programming languages.
+My best expertise:
+. ✅ Programing languages: (including Java, Python, C-sharp, C/C++ and others).
+. ✅ Software Development and Design,
+. ✅ Data Mining, Machine learning, AI (Artificial intelligence), and data analytics.
+. ✅ Monitoring, Leading and Supervising IT based projects
+
+Experience (Project based)
+. ✅ A total of 10+years of experience in The IT industry Under different Streams and positions
+. ✅ 2-Years as a supervisor and Technical Manager (team leader) for Cyber security projects
+. ✅ 3-Years as software project Designer and Architect
+. ✅ 4-Years as software project developer (On cyber security projects)
+. ✅ 3-Years as Data Engineer and Data mining Researcher
 - 💞️ looking to collaborate on Programing,Datascience,AI,ML Datamining
 - 📫 How to reach me Email: kass.cyber.mail@gmail.com // kahsay081@gmail.com
 
