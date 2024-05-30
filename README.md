@@ -2,10 +2,15 @@
 This is Kahsay Kalayu, A Senior Numerical Algorithm Designer (Supervisor &Technical Manager), Experienced with all stages of Software development in different programming languages.
 
 My best expertise:
+
 . ✅ Programing languages: (including Java, Python, C-sharp, C/C++ and others).
+
 . ✅ Software Development and Design,
+
 . ✅ Data Mining, Machine learning, AI (Artificial intelligence), and data analytics.
+
 . ✅ Monitoring, Leading and Supervising IT based projects
+
 
 Experience (Project based)
 . ✅ A total of 10+years of experience in The IT industry Under different Streams and positions
